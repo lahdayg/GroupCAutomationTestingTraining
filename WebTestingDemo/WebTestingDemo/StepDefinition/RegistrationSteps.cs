@@ -40,6 +40,7 @@ namespace WebTestingDemo.StepDefinition
         public void GivenIEnterMyName()
         {
             registrationPage.EnterYourName();
+
         }
         
         [Given(@"I enter my email address")]

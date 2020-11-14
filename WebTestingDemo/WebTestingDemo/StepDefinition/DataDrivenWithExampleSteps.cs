@@ -22,7 +22,6 @@ namespace WebTestingDemo.StepDefinition
         public void GivenIEnterUsernameText(string Username)
         {
             dataDrivenWithExamplesPage.EnterUsernameInput(Username);
-
         }
         
         [Given(@"I enter Email text ""(.*)""")]
