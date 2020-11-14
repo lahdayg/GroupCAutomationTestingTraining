@@ -6685,11 +6685,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Grandma\\source\\repos\\WebTestingDemo\\WebTestingDemo\\WebTestingDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Grandma\\source\\repos\\Training\\GroupCAutomationTestingTraining\\WebTestingDemo\\WebTestingDemo\\WebTestingDemo.csproj",
       "projectName": "WebTestingDemo",
-      "projectPath": "C:\\Users\\Grandma\\source\\repos\\WebTestingDemo\\WebTestingDemo\\WebTestingDemo.csproj",
+      "projectPath": "C:\\Users\\Grandma\\source\\repos\\Training\\GroupCAutomationTestingTraining\\WebTestingDemo\\WebTestingDemo\\WebTestingDemo.csproj",
       "packagesPath": "C:\\Users\\Grandma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Grandma\\source\\repos\\WebTestingDemo\\WebTestingDemo\\obj\\",
+      "outputPath": "C:\\Users\\Grandma\\source\\repos\\Training\\GroupCAutomationTestingTraining\\WebTestingDemo\\WebTestingDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6771,7 +6771,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
